@@ -3,7 +3,7 @@ PXE Boot screens & menus
 
 See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
 
-**sturcture**
+##structure##
 
 ```
 - <root dir>
