@@ -7,13 +7,15 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
 
 ```
 - <root dir>
-  - avg
-  - acronis
   - boot-screens
-  - gparted
-  - memtest
-  - pogostick
   - rescue
+    - avg
+    - acronis
+    - clonezilla
+    - DBAN
+    - gparted
+    - memtest
+    - pogostick
   - ubuntu-installer (currently 14.04.3)
     - x64
     - x86
