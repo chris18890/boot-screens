@@ -16,7 +16,7 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - gparted
     - memtest
     - pogostick
-  - ubuntu-installer (currently 16.04)
+  - ubuntu-installer (currently wily)
     - x64
     - x86
   - ubuntu-live (desktop x86)
