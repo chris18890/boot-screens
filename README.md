@@ -10,7 +10,6 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
   - boot-screens
   - rescue
     - avg
-    - acronis
     - clonezilla
     - DBAN
     - gparted
