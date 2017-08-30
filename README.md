@@ -15,11 +15,10 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - gparted
     - memtest
     - pogostick
-  - ubuntu-installer (currently wily)
+  - ubuntu-installer (latest)
     - x64
     - x86
   - ubuntu-live (desktop x86)
-    - precise
     - trusty
     - vivid
   - win7
