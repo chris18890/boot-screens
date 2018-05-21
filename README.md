@@ -18,7 +18,7 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
   - ubuntu-installer (latest LTS)
     - x64
     - x86
-  - ubuntu-live (desktop x86)
+  - ubuntu-live (desktop x64)
     - trusty
     - vivid
   - win7
