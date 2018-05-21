@@ -19,8 +19,8 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - x64
     - x86
   - ubuntu-live (desktop x64)
-    - trusty
-    - vivid
+    - xenial
+    - bionic
   - win7
     - x64
     - x86
