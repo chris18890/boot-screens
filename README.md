@@ -3,6 +3,8 @@ PXE Boot screens & menus
 
 See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
 
+** note - livetxt.cfg will need updated with the IP address of the server **
+
 ## structure
 
 ```
