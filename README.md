@@ -22,7 +22,6 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
   - ubuntu-installer (latest LTS Netboot image hosted locally via vmlinuz/initrd)
     - x64
   - ubuntu-live (desktop x64 hosted locally via vmlinuz/initrd, filesystem served over NFS, see note above)
-    - xenial
     - bionic
     - cosmic
   - win7 (WIP, currently trying [wimboot](https://ipxe.org/wimboot))
