@@ -20,6 +20,7 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - `pogostick` (uses Memdisk)
   - `ubuntu-installer` (latest LTS Netboot image hosted locally via vmlinuz/initrd)
     - `x64`
+    - `x86`
   - `ubuntu-live` (desktop x64 hosted locally via vmlinuz/initrd, filesystem served over NFS, see note above)
     - `jammy`
     - `focal`
