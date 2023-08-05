@@ -25,7 +25,6 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - `lunar`
     - `jammy`
     - `focal`
-    - `bionic`
   - `win7` (WIP, currently trying [wimboot](https://ipxe.org/wimboot))
     - `x64`
     - `x86`
