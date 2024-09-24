@@ -16,6 +16,8 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
     - `pogostick` (uses Memdisk)
   - `ubuntu-installer` (latest LTS Netboot image hosted locally via vmlinuz/initrd)
     - `x64` (Focal)
+  - `debian-installer` (latest Stable Netboot image hosted locally via vmlinuz/initrd)
+    - `x86` (Bookworm)
   - `ubuntu-live` (desktop x64 hosted locally via vmlinuz/initrd, filesystem served over NFS, see note above)
     - `noble`
     - `jammy`
