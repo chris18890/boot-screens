@@ -17,5 +17,6 @@ See [PXE Boot repo](https://github.com/chris18890/pxe-boot) for setup scripts
   - `ubuntu-installer` (latest LTS Netboot image hosted locally via vmlinuz/initrd)
     - `x64` (Focal)
   - `ubuntu-live` (desktop x64 hosted locally via vmlinuz/initrd, filesystem served over NFS, see note above)
+    - `noble`
     - `jammy`
     - `focal`
